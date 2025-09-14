@@ -1,29 +1,30 @@
 const giftData = [
   {
     id: 1,
-    name: "Eco-Friendly Water Bottle",
-    pricePoint: "$20",
-    audience: "Outdoor Enthusiasts",
-    image: "https://example.com/images/water-bottle.jpg",
-    description:
-      "A reusable, BPA-free water bottle perfect for hiking and travel.",
-    submittedBy: "Alice",
-    submittedOn: "2025-09-10",
+    name: "Nike Panda Dunks",
+    pricePoint: "$$",
+    audience: "Sneakerheads",
+    image:
+      "https://images.stockx.com/images/Nike-Dunk-Low-Retro-White-Black-PS-Product.jpg",
+    description: "A fan-favorite black and white color-blocking sneaker",
+    submittedBy: "Jason",
+    submittedOn: "2023-03-10T05:23:00",
   },
   {
     id: 2,
-    name: "Handmade Ceramic Mug",
-    pricePoint: "$15",
-    audience: "Coffee Lovers",
-    image: "https://example.com/images/ceramic-mug.jpg",
-    description: "A unique, hand-crafted mug for your favorite hot drinks.",
-    submittedBy: "Bob",
-    submittedOn: "2025-09-11",
+    name: "Disco Ball Candle",
+    pricePoint: "$",
+    audience: "Candle Lovers",
+    image:
+      "https://images.urbndata.com/is/image/UrbanOutfitters/69840072_007_b",
+    description: "A party in a candle",
+    submittedBy: "Sasha",
+    submittedOn: "2022-09-04T14:48:00",
   },
   {
     id: 3,
     name: "Succulent Plant Set",
-    pricePoint: "$25",
+    pricePoint: "$$",
     audience: "Home Decorators",
     image: "https://example.com/images/succulents.jpg",
     description: "A set of three easy-to-care-for succulent plants.",
@@ -33,7 +34,7 @@ const giftData = [
   {
     id: 4,
     name: "Portable Bluetooth Speaker",
-    pricePoint: "$35",
+    pricePoint: "$$$",
     audience: "Music Lovers",
     image: "https://example.com/images/bluetooth-speaker.jpg",
     description:
@@ -44,7 +45,7 @@ const giftData = [
   {
     id: 5,
     name: "Organic Tea Sampler",
-    pricePoint: "$18",
+    pricePoint: "$$",
     audience: "Tea Enthusiasts",
     image: "https://example.com/images/tea-sampler.jpg",
     description: "A collection of organic teas from around the world.",
@@ -54,7 +55,7 @@ const giftData = [
   {
     id: 6,
     name: "Custom Engraved Keychain",
-    pricePoint: "$12",
+    pricePoint: "$",
     audience: "Gift Seekers",
     image: "https://example.com/images/keychain.jpg",
     description: "A personalized keychain with custom engraving options.",
@@ -64,7 +65,7 @@ const giftData = [
   {
     id: 7,
     name: "Mini Desk Plant",
-    pricePoint: "$10",
+    pricePoint: "$",
     audience: "Office Workers",
     image: "https://example.com/images/desk-plant.jpg",
     description: "A small, low-maintenance plant to brighten up any workspace.",
@@ -74,7 +75,7 @@ const giftData = [
   {
     id: 8,
     name: "Handwoven Throw Blanket",
-    pricePoint: "$40",
+    pricePoint: "$$$",
     audience: "Homebodies",
     image: "https://example.com/images/throw-blanket.jpg",
     description: "A cozy, handwoven blanket perfect for relaxing at home.",
