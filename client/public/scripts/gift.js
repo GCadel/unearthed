@@ -25,6 +25,7 @@ const renderGift = async () => {
   } else {
     const noGiftMsg = document.createElement("h2")
     noGiftMsg.textContent = "No Gifts Available 😞"
+    giftContent.replaceChildren([])
     giftContent.appendChild(noGiftMsg)
   }
 }
